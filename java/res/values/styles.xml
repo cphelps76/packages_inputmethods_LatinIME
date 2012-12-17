@@ -43,7 +43,7 @@
         <item name="keyHintLabelRatio">@fraction/key_hint_label_ratio</item>
         <item name="keyShiftedLetterHintRatio">@fraction/key_uppercase_letter_ratio</item>
         <item name="keyTypeface">normal</item>
-        <item name="keyTextColor">#FF33b5e5F</item>
+        <item name="keyTextColor">#FF33b5e5</item>
         <item name="keyTextInactivatedColor">#FF33b5e5</item>
         <item name="keyHintLetterColor">#80000000</item>
         <item name="keyHintLabelColor">#E0E0E4E5</item>
